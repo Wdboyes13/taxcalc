@@ -4,6 +4,6 @@
 
 ### To get and run
 
-`git clone`  
-`cd taxcalc`
-`python3 main.py`
+`git clone https://github.com/Wdboyes13/taxcalc.git`  
+`cd taxcalc`  
+`python3 main.py`  
