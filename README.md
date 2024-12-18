@@ -1,9 +1,9 @@
 # taxcalc
 
-## A sales tax calculator for canada
+## A sales tax calculator for canada in many languages
 
-### To get and run
-
-`git clone https://github.com/Wdboyes13/taxcalc.git`  
-`cd taxcalc`  
-`python3 main.py`  
+### Current Languages
+Python  
+C  
+C++  
+Go
