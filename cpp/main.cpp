@@ -7,7 +7,7 @@ int main() {
 	map<string, float> rates;
 	rates["BC"] = 0.12;
 	rates["AB"] = 0.05;
-	rates["SK"] = 0.05;
+	rates["SK"] = 0.11;
 	rates["MN"] = 0.12;
 	rates["ON"] = 0.13;
 	rates["QC"] = 0.14975;
