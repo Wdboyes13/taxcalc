@@ -6,10 +6,10 @@
 Python  
 C  
 C++  
-Go
+Go  
 Java
-
+JavaScript
 ### Working on
 C#  
-JavaScript
+
 
