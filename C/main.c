@@ -23,7 +23,7 @@ int main() {
 	double ON = 0.13;
 	double QC = 0.14975;
 	double PEI = 0.15;
-	double SK = 0.05;
+	double SK = 0.11;
 	double YT = 0.05;
 
 
