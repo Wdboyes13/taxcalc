@@ -7,7 +7,9 @@ Python
 C  
 C++  
 Go
+Java
 
 ### Working on
-Java  
-Kotlin
+C#
+JavaScript
+
