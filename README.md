@@ -7,9 +7,10 @@ Python
 C  
 C++  
 Go  
-Java
-JavaScript
+Java  
+JavaScript  
+C#
 ### Working on
-C#  
+Looking for new languages
 
 
